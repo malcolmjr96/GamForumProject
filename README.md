@@ -4,6 +4,8 @@ Theme for https://www.elkarte.net/. Theme files are under GNU Public Licnese 3.0
 
 # To-do
 
+https://github.com/malcolmjr96/GamForumProject/projects/1
+
 # Installation
 
 Not avaiable at this time.
